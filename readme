@@ -1,0 +1,2 @@
+ Usage: first type make to build the program, then execute with ./main. Must have g++ installed to use the makefile.
+ 
